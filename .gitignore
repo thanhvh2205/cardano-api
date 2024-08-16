@@ -71,3 +71,5 @@ cardano-tracer/cardano-tracer-test
 
 # IntellIJ project folder
 .idea/
+.direnv/
+.envrc
